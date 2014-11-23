@@ -1,0 +1,12 @@
+# Site settings
+title: Giovanni Lodi
+email: giovanni.lodi42@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A proper description is on it's way
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mokagio.github.io" # the base hostname & protocol for your site
+twitter_username: mokagio
+github_username:  mokagio
+
+# Build settings
+markdown: kramdown
